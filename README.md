@@ -1,5 +1,5 @@
 # RenewableEnergies
-Correlation between energy supply/renewable electricity indicators, GDP and renewable energy research for countries in the UN
+Correlation between energy supply/renewable electricity indicators, GDP and renewable energy research for countries in the UN-
 
 Data can be found in the files 
 * `energy_ind.xls`: indicators of [energy supply and renewable electricity production](Energy%20Indicators.xls) from the [United Nations](http://unstats.un.org/unsd/environment/excel_file_tables/2013/Energy%20Indicators.xls) for the year 2013.
